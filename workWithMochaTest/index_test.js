@@ -1,5 +1,5 @@
 import assert from 'assert'; 
-import Rooster from '../index.js'; 
+import Rooster from 'workWithMochaTest\index.js'; 
 
 describe("Rooster Module", () => {
   describe("announceDawn", () => {
