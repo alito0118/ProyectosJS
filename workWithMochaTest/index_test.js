@@ -1,5 +1,5 @@
-const assert = require("assert");
-const Rooster = require("../index.js");
+import assert from 'assert'; 
+import Rooster from '../index.js'; 
 
 describe("Rooster Module", () => {
   describe("announceDawn", () => {
